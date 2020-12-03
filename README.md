@@ -1,4 +1,4 @@
-# Challenge Title
+# React Song Filter App
 
 ## Setup
 
@@ -10,11 +10,40 @@
 6. Verify the application runs as expected
 
 ### What you should see
-_Add an image and/or description of what will be seen when the scaffold successfully runs_
+<img src="./docs/challenge_starter.png" style="zoom:50%;" />
 
 
 ## Challenge
-_Description of the challenge, with clear steps. It may help to include a link to a video showing the completed working application._
+### This is a song filter challenge, you will build a playlist of your favourite songs and filter through them without a page refresh
+1. In this challenge you will modify the class component App to filter songs
+2. Create a state variable which is an array of songs
+3. render a form input with a list of songs stored in the state variable
+4. Search for a specific song in the form input
+5. Notice as you type in the letters the song list must filter without a page refresh
+
+**Note**: This challenge requires you to explore a bit about React events : https://reactjs.org/docs/handling-events.html
+
+### <u>Final Output</u>
+
+<img src="./docs/challenge_complete_1.png" style="zoom:50%;" />
+
+<img src="./docs/challenge_complete_2.png" style="zoom:50%;" />
+
+
+
+<img src="./docs/challenge_complete_3.png" style="zoom:50%;" />
+
+### Optional
+
+1. Create Style components or add css to style the page
+2. Also exlpore some of the react CSS frameworks such as
+    1. https://material-ui.com/
+    2. https://ant.design/
+    3. https://react-bootstrap.github.io/
+
+### Next level ( Advanced)
+You can take this app to the next level and checkout if you could integrate any spotify api
+
 
 ## Tests and Submitting
 
@@ -29,6 +58,4 @@ At any time you can run `yarn test` to see your progress. By default it will run
 7. Wait and watch the final tests run, if you are successful it will automatically let your educators know you are finished.
 
 ## Example solution
-_Remove this section if you have not provided an example solution. Change the details below if necessary_
-
 An example solution can be found in the challenge-complete branch of this repository.
