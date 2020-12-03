@@ -4,6 +4,9 @@ class App extends Component {
       constructor(props){
         super(props)
         // code here
+        // This binding is necessary to make `this` work in the callback
+        this.handleClick = this.handleClick.bind(this);
+        this.filterSongs = this.filterSongs.bind(this);
       }
 
       handleClick(){
