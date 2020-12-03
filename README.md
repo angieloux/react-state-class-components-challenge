@@ -10,7 +10,7 @@
 6. Verify the application runs as expected
 
 ### What you should see
-<img src="./docs/challenge_starter.png" style="zoom:50%;" />
+<img src="./docs/challenge_starter.png" style="zoom:30%;" />
 
 
 ## Challenge
@@ -25,13 +25,13 @@
 
 ### <u>Final Output</u>
 
-<img src="./docs/challenge_complete_1.png" style="zoom:50%;" />
+<img src="./docs/challenge_complete_1.png" style="zoom:40%;" />
 
-<img src="./docs/challenge_complete_2.png" style="zoom:50%;" />
+<img src="./docs/challenge_complete_2.png" style="zoom:30%;" />
 
 
 
-<img src="./docs/challenge_complete_3.png" style="zoom:50%;" />
+<img src="./docs/challenge_complete_3.png" style="zoom:30%;" />
 
 ### Optional
 
