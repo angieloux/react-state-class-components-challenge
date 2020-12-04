@@ -16,8 +16,8 @@
 ## Challenge
 ### This is a song filter challenge, you will build a playlist of your favourite songs and filter through them without a page refresh
 1. In this challenge you will modify the class component App to filter songs
-2. Create a state variable which is an array of songs
-3. render a form input with a list of songs stored in the state variable
+2. Create a state variable which is an array of songs, here is the list you need to use. `["Despacito", "Summer Of 69", "Hotel California", "Single Ladies", "If I were a boy", "Run the World", "Waka Waka" ]`
+3. Render a form input with a list of songs stored in the state variable
 4. Search for a specific song in the form input
 5. Notice as you type in the letters the song list must filter without a page refresh
 
