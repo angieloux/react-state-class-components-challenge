@@ -18,7 +18,7 @@ class App extends Component {
       }
       render(){
         return(
-          <div>
+          <div data-testid="app" >
             <h1> SEARCH SONG </h1>
             <form onSubmit={this.handleClick}>
                     <input type="text" onChange={this.filterSongs} />
